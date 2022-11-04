@@ -9,10 +9,10 @@
 		"HOST_ADDRESS": "0.0.0.0:9010"
 	},
 	"MASTER_ACCOUNT": {
-		"NAME": "accountName", 
-		"PUBLIC_KEY": "publicKey", 
-		"PRIVATE_KEY": "privateKey", 
-		"PEER_ADDRESS": "IP:9010",
+		"NAME": "s1mii", 
+		"PUBLIC_KEY": "INE6bzxMMiwaHqovooLaiMkM8Q5TC724L8XvVFdoCHiQ58Muso6SU", 
+		"PRIVATE_KEY": "5HrrBH31Kc2afz1k2Txnn9JHfPBdRnS8tJa5aQViJrwGqhtR2SQ", 
+		"PEER_ADDRESS": "68.183.67.171:9010",
 		"HTTP_ADDRESS": "0.0.0.0:8888",
 		"HOST_ADDRESS": "0.0.0.0:9010"
 	},
